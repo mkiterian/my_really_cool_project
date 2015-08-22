@@ -1,3 +1,3 @@
 Get gitty wit it
 
-I'm getting to know git
+I'm getting to know git and I'm loving it
