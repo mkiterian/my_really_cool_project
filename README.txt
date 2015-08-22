@@ -1,3 +1,3 @@
-Get gitty wit it
+Get itty bitty gitty wit it
 
 I'm getting to know git
